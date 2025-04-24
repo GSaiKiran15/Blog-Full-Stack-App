@@ -1,0 +1,28 @@
+{
+  "name": "blog-full-stack",
+  "version": "1.0.0",
+  "description": "\"# Blog-Full-Stack-App\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSaiKiran15/Blog-Full-Stack-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSaiKiran15/Blog-Full-Stack-App/issues"
+  },
+  "homepage": "https://github.com/GSaiKiran15/Blog-Full-Stack-App#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "body-parser": "^2.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "pg": "^8.15.5"
+  }
+}
